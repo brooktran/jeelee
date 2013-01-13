@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- in the project's Project Properties dialog box. -->
+<project name="Application" default="default" basedir=".">
+	<description>Builds, tests, and runs the project Application.
+	</description>
+	<import file="nbproject/build-impl.xml" />
+</project>

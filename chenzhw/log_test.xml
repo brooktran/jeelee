@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2009-03-19T21:44:58</date>
+  <millis>1237470298831</millis>
+  <sequence>0</sequence>
+  <logger>LoggingExample</logger>
+  <level>INFO</level>
+  <class>com.test.logging.LoggingExample1</class>
+  <method>testLogger</method>
+  <thread>10</thread>
+  <message>test 1</message>
+</record>
+<record>
+  <date>2009-03-19T21:44:59</date>
+  <millis>1237470299001</millis>
+  <sequence>1</sequence>
+  <logger>LoggingExample</logger>
+  <level>INFO</level>
+  <class>com.test.logging.LoggingExample1</class>
+  <method>testLogger</method>
+  <thread>10</thread>
+  <message>test 2</message>
+</record>
+<record>
+  <date>2009-03-19T21:44:59</date>
+  <millis>1237470299001</millis>
+  <sequence>2</sequence>
+  <logger>LoggingExample</logger>
+  <level>INFO</level>
+  <class>com.test.logging.LoggingExample1</class>
+  <method>testLogger</method>
+  <thread>10</thread>
+  <message>test 3</message>
+</record>
+</log>

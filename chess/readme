@@ -1,0 +1,36 @@
+﻿
+
+-----------------------------------------
+# org.zhiwu.app.Application.prefs 文件为系统文件 
+
+--------------------------------
+# 文件org.renju.app.RenjuApplication.prefs说明
+sound=true	# true打开声音, false关闭声音
+sound.path=resources/sound/	# 声音文件路径
+
+
+# 其余文件为游戏模式配置文件 如:challenge.prefs(挑战模式) survival.prefs(存活模式)
+
+name=\u6311\u6218\u6A21\u5F0F	# 模式名称
+pieceType=8			# 彩珠种类
+AIOpen=false			# 打开出现彩球时的AI, 会增加难度
+column=10			# 棋盘列数
+row=10				# 棋盘行数
+diminish.system.piece=false	# 消除系统出现的彩珠
+pieceNum=3			# 每次出现的彩珠数量
+diminishedScore=10		# 消除一行获得的分数
+high.score=640,640		# 最高分记录
+next=				# 下一关, 留空表示没有下一关
+next.score=5			# 按"下一组"时增加的分数
+diminishNum=5			# 达到多少颗时消除
+initialNum=20			# 开始时彩珠的数量
+checkPassable=true		# 检查连通,有通路才能移动彩珠
+pass.score=100			# 达到此分数进入下一关.0表示没有最高分限制
+
+---------------------------------------
+enjoy yourself !
+
+
+
+----license------------------
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.

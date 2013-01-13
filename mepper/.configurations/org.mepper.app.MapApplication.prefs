@@ -1,0 +1,23 @@
+#java.util.GregorianCalendar[time=1323699756943,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2011,MONTH=11,WEEK_OF_YEAR=51,WEEK_OF_MONTH=3,DAY_OF_MONTH=12,DAY_OF_YEAR=346,DAY_OF_WEEK=2,DAY_OF_WEEK_IN_MONTH=2,AM_PM=1,HOUR=10,HOUR_OF_DAY=22,MINUTE=22,SECOND=36,MILLISECOND=943,ZONE_OFFSET=28800000,DST_OFFSET=0]
+#Mon Dec 12 22:22:36 CST 2011
+plugins.dir=resources/plugins/
+tile.occupie.width=1
+tile.occupie.height=1
+tile.id=4491
+brush.selection.tile.width=48
+tile.height=48
+tile.starting.y=0
+tile.starting.x=24
+map.type=org.mepper.editor.map.DiamondMap
+project.id=8
+brush.selection.tile.height=24
+map.logical.width=40
+terrain.transitor=org.mepper.editor.tile.terrain.RandomTransitor
+map.logical.height=40
+max.tile.extension=10
+supported.map.type=org.mepper.editor.map.DiamondMap,org.mepper.editor.map.OrthogonalMap
+database.path=resources/config/database/
+recent.properties=edge,57;group,69;priority,146;
+tile.width=24
+map.id=77
+map.io.plugin=org.mepper.io.xml

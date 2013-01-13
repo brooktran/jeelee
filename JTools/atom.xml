@@ -1,0 +1,127 @@
+﻿<?xml version="1.0"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+<title>IBM developerWorks 中国 : 文档库</title> 
+<id>tag:developerWorks.dw,25 七月 2010 05:53:52 +0000</id>
+<author>
+	<name>IBM developerWorks 中国</name>
+</author>
+<subtitle type="html">来自 IBM developerWorks 中国网站的最新内容</subtitle>
+<rights>Copyright 2004 IBM Corporation</rights>	
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/"/>
+<updated>25 七月 2010 05:53:52 +0000</updated>
+
+
+<entry>
+<title><![CDATA[IBM Lotus Sametime 8.5 策略管理简介]]></title> 
+<summary><![CDATA[作为 IBM Lotus Sametime 8.5 的全新功能之一，Sametime 8.5 系统控制台服务器可以统一配置管理社区服务器、媒体服务器、会议服务器、代理服务器和 Gateway 服务器，并能够完成用户策略、用户组策略的管理，从而实现根据企业用户实际需要对即时消息、会议、媒体管理器三部分功能的细分控制。本文将对 Sametime 8.5 的策略管理进行介绍。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/lotus/sametime85-policy/index.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,23 七月 2010 04:00:00 +0000</id>
+<published>23 七月 2010 04:00:00 +0000</published>
+<updated>23 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[采用 Rational Functional Tester 实现基于时间的自动化测试过程监控]]></title> 
+<summary><![CDATA[本文针对自动化测试脚本的特点，采用 Rational Functional Tester（RFT）实现了一种基于时间的自动化测试过程监控方法。以自动化测试脚本的某一次执行时间为基准值，使用进度条来准确、直观地实时展现批量脚本执行情况，并可实现远程监控。本方法可以有效地帮助测试人员监控测试进度,预估脚本执行的剩余时间。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/rational/r-cn-rfttimebasedmonitoring/index.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,23 七月 2010 04:00:00 +0000</id>
+<published>23 七月 2010 04:00:00 +0000</published>
+<updated>23 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[使用 NIM 安装 AIX 无盘工作站]]></title> 
+<summary><![CDATA[本文介绍了如何使用 NIM (Network Installation Management，网络安装管理器 ) 所提供的 lpp_source、spot、root 和 paging 等资源 (Resource)，来安装 AIX 无盘 (Diskless) 工作站的具体方法，并给出具体的命令及参数以方便读者将这些安装和配置的方法集成到自动化脚本中。文章假设读者已经掌握 NIM 的基本操作，因此对 NIM 本身不做重点介绍，读者可以从 DeveloperWork 网站获得这部分知识。在这里，我们以 AIX6.1.4 为例，但文中介绍的技术适用于 AIX 5L 和 AIX 6L 各版本的无盘工作站网络安装。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/aix/library/1007_sunjing_nimdiskless/index.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,22 七月 2010 04:00:00 +0000</id>
+<published>22 七月 2010 04:00:00 +0000</published>
+<updated>22 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[开始使用 IBM Smart Business Development and Test on the IBM Cloud]]></title> 
+<summary><![CDATA[随本文作者一道研究 IBM Cloud 网站上的 IBM Smart Business Development and Test；了解如何访问和获取虚拟服务器、IP 地址和软件以及如何管理您的密钥。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/cloud/library/cl-cloudstart.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,22 七月 2010 04:00:00 +0000</id>
+<published>22 七月 2010 04:00:00 +0000</published>
+<updated>22 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[对 DB2 远程 SQL 复制应用中的常见错误分析及处理]]></title> 
+<summary><![CDATA[本文讨论和分析在常见的 DB2 远程 SQL 复制应用场景中经常遇到的错误和原因，以及处理方式。通过深入分析和刨析 SQL 复制的运行机制，以及列举出常见错误的处理方法，使 db2 开发和管理人员能更深入的了解 DB2 SQL 复制的特性，缩短他们处理问题的时间，提高他们在系统中应用 SQL 复制的效率。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/data/library/techarticles/dm-1007huangxp/index.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,22 七月 2010 04:00:00 +0000</id>
+<published>22 七月 2010 04:00:00 +0000</published>
+<updated>22 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[为 InfoSphere Warehouse 提供实时数据的高效解决方案]]></title> 
+<summary><![CDATA[数据整合是数据仓库中的关键概念，ETL（数据的提取、转换和加载）过程的设计和实现是数据仓库解决方案中极其重要的一部分。由于传统的 ETL 过程中数据抽取是需要加载所有源数据库中的数据，这样对于需要经常进行数据集中的案例，将带来无可忍受的低效率。我们将介绍通过结合 InfoSphere Replication Server 和 InfoSphere DataStage，实现数据仓库的实时更新，并且仅仅需要抽取更新了的数据。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/data/library/techarticles/dm-1007liuy/index.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,22 七月 2010 04:00:00 +0000</id>
+<published>22 七月 2010 04:00:00 +0000</published>
+<updated>22 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[论 LOAD 与 IMPORT 中的 codepage 转换]]></title> 
+<summary><![CDATA[本文介绍了 DB2 中进行 LOAD, IMPORT 时可能的 codepage 转换，在 DB2 V9.7 中进行了一些实例分析，使大家能更清晰的了解 codepage 转换。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/data/library/techarticles/dm-1007wucx/index.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,22 七月 2010 04:00:00 +0000</id>
+<published>22 七月 2010 04:00:00 +0000</published>
+<updated>22 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[关于 JAR 您不知道的 5 件事]]></title> 
+<summary><![CDATA[除了一些基础的 JAR 之外，许多 Java 开发人员绝没想到 —— 在发送到产品服务器之前，仅使用它们就可以绑定类。JAR 不仅仅是一个重命名的 ZIP 文件。在本文中，您将学习如何最大限度地使用 Java Archive 文件，包括 jarring Spring 依赖项和配置文件的一些技巧。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/java/j-5things6.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,22 七月 2010 04:00:00 +0000</id>
+<published>22 七月 2010 04:00:00 +0000</published>
+<updated>22 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[扩展 JUnit4 以促进测试驱动开发]]></title> 
+<summary><![CDATA[在采用测试驱动开发的项目中，有一个经常困扰开发者的问题是：当存在大量的测试用例时，一次运行完所有的测试用例要花费很长的时间，采用 TestSuite 来组织测试用例的方式缺乏灵活性，通常它的组织结构大体和 Java Package/Class 的组织结构类似，不能和当前实现的业务需求完全相关。本文将通过扩展 JUnit4 来实现一种可以更加高效灵活地组织和运行测试用例的解决方案，促进测试驱动开发实践更有效地进行。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/java/j-lo-junit4tdd/index.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,22 七月 2010 04:00:00 +0000</id>
+<published>22 七月 2010 04:00:00 +0000</published>
+<updated>22 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+<entry>
+<title><![CDATA[使用 Eclipse Memory Analyzer 进行堆转储文件分析]]></title> 
+<summary><![CDATA[Eclipse Memory Analyzer（MAT）是著名的跨平台集成开发环境 Eclipse Galileo 版本的 33 个组成项目中之一，它是一个功能丰富的 JAVA 堆转储文件分析工具，可以帮助你发现内存漏洞和减少内存消耗。本文主要介绍如何安装配置 Memory Analyzer，并结合一个实例，介绍如何利用 MAT 来进行堆转储文件分析，找到内存泄露的根源。]]></summary> 
+<link rel="self" type="text/html" hreflang="zh" href="http://www.ibm.com/developerworks/cn/opensource/os-cn-ecl-ma/index.html?ca=dat-"/> 
+<id>tag:developerWorks.dw,22 七月 2010 04:00:00 +0000</id>
+<published>22 七月 2010 04:00:00 +0000</published>
+<updated>22 七月 2010 04:00:00 +0000</updated>
+</entry>
+
+
+
+</feed>
+

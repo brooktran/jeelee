@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--   -->
+<map>
+	<tile>
+		<terrains name="地表">
+			<terrain id="1.1" name="草地4" resource="i.1.101.1111.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="1.2" name="草地0" resource="i.1.000.2221.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="1.3" name="草地1" resource="i.1.001.1221.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="1.4" name="草地2" resource="i.1.002.1222.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="1.5" name="草地3" resource="i.1.100.2211.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="1.6" name="草地5" resource="i.1.102.1122.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="1.7" name="草地6" resource="i.1.200.2212.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="1.8" name="草地7" resource="i.1.201.2112.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="1.9" name="草地8" resource="i.1.202.2122.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			
+			<terrain id="2" name="泥土4" resource="i.2.101.2222.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			<terrain id="2" name="泥土0" resource="i.2.000.1112.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			<terrain id="2" name="泥土1" resource="i.2.001.2112.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			<terrain id="2" name="泥土2" resource="i.2.002.2111.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			<terrain id="2" name="泥土3" resource="i.2.100.1122.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			<terrain id="2" name="泥土5" resource="i.2.102.2211.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			<terrain id="2" name="泥土6" resource="i.2.200.1121.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			<terrain id="2" name="泥土7" resource="i.2.201.1221.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			<terrain id="2" name="泥土8" resource="i.2.202.1211.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			
+		</terrains>
+		
+		<buildings name="建筑">
+			<terrain id="1.1" name="草地4" resource="i.1.101.1111.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="2" name="泥土1" resource="i.2.001.2112.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+			
+		</buildings>
+		
+		<NPC name="人物">
+			<terrain id="1.1" name="草地4" resource="i.1.101.1111.png" type="png"
+				passable="1"/> <!-- 草地 -->
+			<terrain id="2" name="泥土6" resource="i.2.200.1121.png" type="png"
+				passable="1"/> <!-- 泥土 -->
+		</NPC>
+		
+	</tile>
+	
+</map>

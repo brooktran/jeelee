@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<note xmlns="org.chen"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="org.chen note.xsd">
+	
+	<to>Tove</to>
+	<from>Jani</from>
+	<heading>Reminder</heading>
+	<body>Don't forget me this weekind!</body>
+	
+</note>

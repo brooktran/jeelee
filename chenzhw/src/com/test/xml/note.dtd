@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT note (to,from,heading,body)><!--定义了有四个元素-->
+<!ELEMENT to (#PCDATA)><!--#PCDATA是数据类型-->
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>

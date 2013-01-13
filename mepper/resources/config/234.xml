@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mepper_resource version="1.1.2.2011032176"?>
+<mepper>
+<map id="51" name="35" description="" rows="40" 
+	columns="40" tileWidth="48" tileHeight="24" 
+	type="org.mepper.editor.map.DiamondMap">
+	<layer index="0" name="地表"><properties />
+		<tiles>
+			<tile id="99" x="7" y="0" /><!--其余省略 -->
+		</tiles>
+	</layer>
+	<layer index="2" name="可走"><properties />
+		<tiles>
+			<custom id="396" x="9" y="2" /><!--其余省略 -->
+		</tiles>
+	</layer>
+	<resources>
+		<tile id="99" name="i.1.101.1111.png" description="">
+			<properties />
+			<occupie width="1" height="1" />
+			<starting_point x="24" y="0" />
+			<image width="48" height="24"><![CDATA[[]]]></image>
+		</tile>
+		<custom id="396" name="可走2" description="234">
+			<properties>
+				<property _value="34" />
+			</properties>
+			<color r="153" g="102" b="0" />
+		</custom><!--其余省略 -->
+	</resources><properties />
+</map></mepper>
+
+
+	
+	
+	
+	
+	
+
+

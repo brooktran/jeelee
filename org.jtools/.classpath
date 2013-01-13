@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/rome/rome-1.0.jar" sourcepath="lib/rome/rome-1.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/jaxen.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/jdom.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/saxpath.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xalan.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xerces.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xml-apis.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

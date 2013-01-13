@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>File Client Applet</title>
+</head>
+<body>
+
+FileClientApplet.java is an applet that allows the user to type text
+into a scrolling text area.  When the user clicks the "Save" button,
+the text is copied over the network to a server (running on port
+5000), which saves it to a file.  Of course, browser security
+restrictions prevent an applet from saving data directly on the file
+system. <p>
+
+TCPFileServer.java implements the server to which the applet
+connects.  It takes the port (use 5000 to work with the applet) and
+the name of the file.  The server must be run on the web server that
+serves the applet to the browser. <p>
+
+Here's the FileClientApplet applet: <p>
+<applet code="FileClientApplet.class" width=300 height=300>
+For some reason, your browser isn't rendering the applet.
+</applet> <p>
+
+If you are accessing this web page from the book website, clicking on
+save will cause a "Connection refused" error to pop up in the text
+area.  For security reasons, we are not running the TCPFileServer on the
+book website.
+
+</body>
+</html>

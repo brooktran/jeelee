@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xss:schema xmlns:xss="http://www.w3.org/2001/XMLSchema" targetNamespace="org.chen" xmlns="org.chen" elementFormDefault="qualified">
+
+<xss:element name="note">
+	<xss:complexType>
+	<xss:sequence>
+		<xss:element name="to" type="xss:string"/>
+		<xss:element name="from" type="xss:string"/>
+		<xss:element name="heading" type="xss:string"/>
+		<xss:element name="body"	type="xss:string"/>
+	</xss:sequence>
+	</xss:complexType>
+</xss:element>
+
+</xss:schema>
+<!--http://www.w3school.com.cn-->

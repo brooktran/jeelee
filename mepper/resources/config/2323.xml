@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mepper_resource version="1.1.2.2011032176"?>
+<mepper>
+	<map id="47" name="牧场" description="" rows="40" columns="40"
+		tileWidth="48" tileHeight="24" 
+		type="org.mepper.editor.map.DiamondMap">
+		<properties />
+		<layer index="0" name="地表">
+			<properties />
+			<tiles>
+				<tile id="261" x="2" y="2" />
+				<tile id="261" x="3" y="7" />
+				<tile id="279" x="39" y="34" />
+				<!-- 省略 -->
+			</tiles>
+		</layer>
+		<resources>
+			<tile id="261" name="c322.png" description="">
+				<properties />
+				<occupie width="1" height="1" />
+				<starting_point x="24" y="14" />
+				<step tileWidth="0" tileHeight="0" />
+				<image width="44" height="41"><![CDATA[]]]></image>
+			</tile>
+			<!-- 省略 -->
+		</resources>
+	</map>
+</mepper>
+

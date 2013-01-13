@@ -1,0 +1,10 @@
+#java.util.GregorianCalendar[time=1317290271573,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2011,MONTH=8,WEEK_OF_YEAR=40,WEEK_OF_MONTH=5,DAY_OF_MONTH=29,DAY_OF_YEAR=272,DAY_OF_WEEK=5,DAY_OF_WEEK_IN_MONTH=5,AM_PM=1,HOUR=5,HOUR_OF_DAY=17,MINUTE=57,SECOND=51,MILLISECOND=573,ZONE_OFFSET=28800000,DST_OFFSET=0]
+#Thu Sep 29 17:57:51 CST 2011
+locale=en_US
+views=org.mepper.resources.gui.ResourcesView,org.mepper.editor.gui.MapView
+window.location=166 319
+window.extended.state=0
+recent.path=C\:\\Users\\ahiwen\\Desktop
+testing=true
+locales.support=zh_CN,en_US
+window.size=857 562

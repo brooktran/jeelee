@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" size="708,660" id="org.zhiwu.app" metadata="uml2-1.0" initialized="true" scrolledY="242" tag="1000" key="32303037303533312D31303030204170706C69636174696F6E2F726F6F74">
+  <children xsi:type="editmodel:ClassEditModel" name="AbsApplicaton" location="192,123" size="141,625" id="org.zhiwu.app/AbsApplicaton" runTimeClassModel="addView(Lorg.zhiwu.app.IView;),model,init(),state,addRecentFile(Ljava.io.File;),hideView(Lorg.zhiwu.app.IView;),addviewClass(Ljava.lang.Class;),setupView(Lorg.zhiwu.app.IView;),getName(),showView(Lorg.zhiwu.app.IView;),launch(),setView(Ljava.lang.String;),setContainer(Ljava.awt.Container;),stop(),getPreference(),config,getVersion(),setVisible(Z),addConfigListener(Ljava.lang.Class;Lorg.zhiwu.app.config.ConfigListener;),exit(),getConfig(),getView(),isEnable(),setEnable(Z),addConfigItem(Ljava.lang.Class;),start(),setModel(Lorg.zhiwu.app.IModel;),setState(Ljava.lang.String;),AbsApplicaton(),getVisible(),container,getContainer(),getModel()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="116,36">
+      <children xsi:type="editmodel:AttributeEditModel" name="container" id="org.zhiwu.app/AbsApplicaton#container"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="state" id="org.zhiwu.app/AbsApplicaton#state"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="118,540">
+      <children xsi:type="editmodel:MethodEditModel" name="AbsApplicaton" id="org.zhiwu.app/AbsApplicaton#AbsApplicaton()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="addConfigListener" id="org.zhiwu.app/AbsApplicaton#addConfigListener(Ljava.lang.Class;Lorg.zhiwu.app.config.ConfigListener;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="addviewClass" id="org.zhiwu.app/AbsApplicaton#addviewClass(Ljava.lang.Class;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="addRecentFile" id="org.zhiwu.app/AbsApplicaton#addRecentFile(Ljava.io.File;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="addView" id="org.zhiwu.app/AbsApplicaton#addView(Lorg.zhiwu.app.IView;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getView" id="org.zhiwu.app/AbsApplicaton#getView(Ljava.lang.Class;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="exit" id="org.zhiwu.app/AbsApplicaton#exit()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getName" id="org.zhiwu.app/AbsApplicaton#getName()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getPreference" id="org.zhiwu.app/AbsApplicaton#getPreference()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getVersion" id="org.zhiwu.app/AbsApplicaton#getVersion()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="addConfigItem" id="org.zhiwu.app/AbsApplicaton#addConfigItem(Ljava.lang.Class;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getView" id="org.zhiwu.app/AbsApplicaton#getView()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getVisible" id="org.zhiwu.app/AbsApplicaton#getVisible()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="hideView" id="org.zhiwu.app/AbsApplicaton#hideView(Lorg.zhiwu.app.IView;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="init" id="org.zhiwu.app/AbsApplicaton#init()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isEnable" id="org.zhiwu.app/AbsApplicaton#isEnable()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="launch" id="org.zhiwu.app/AbsApplicaton#launch()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setEnable" id="org.zhiwu.app/AbsApplicaton#setEnable(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setView" id="org.zhiwu.app/AbsApplicaton#setView(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setVisible" id="org.zhiwu.app/AbsApplicaton#setVisible(Z)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setupView" id="org.zhiwu.app/AbsApplicaton#setupView(Lorg.zhiwu.app.IView;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="showView" id="org.zhiwu.app/AbsApplicaton#showView(Lorg.zhiwu.app.IView;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="start" id="org.zhiwu.app/AbsApplicaton#start()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="stop" id="org.zhiwu.app/AbsApplicaton#stop()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setContainer" id="org.zhiwu.app/AbsApplicaton#setContainer(Ljava.awt.Container;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getModel" id="org.zhiwu.app/AbsApplicaton#getModel()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setState" id="org.zhiwu.app/AbsApplicaton#setState(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getContainer" id="org.zhiwu.app/AbsApplicaton#getContainer()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setModel" id="org.zhiwu.app/AbsApplicaton#setModel(Lorg.zhiwu.app.IModel;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getConfig" id="org.zhiwu.app/AbsApplicaton#getConfig()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" properties="wireOptions=1;Product=eUML2" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="15,15" gridOrigin="0,0" rulerUnit="pixel" gridVisibility="false">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" showPopupBars="true" showConnectionHandles="true" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" showDependencyStereotype="true" showInterfaceStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>

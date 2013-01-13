@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Document   : compare.xml
+Created on : 2010.02.02, 15:52
+Author     : Brook Tran 
+Description:
+Purpose of the document follows.
+--><root>
+	<cmp title="234" date="1265188907543">
+		<source>34234234234234</source>
+		<target>2344 4234234234</target>
+		<translated />
+		<comment />
+	</cmp>
+	<cmp title="00000234234234234234234" date="1265477172965">
+		<source>43 4 43 4234243234 4234</source>
+		<target>43 345 45322342</target>
+		<translated> 345 3 23423 4 </translated>
+		<comment> 34 2 324234</comment>
+	</cmp>
+	<cmp title="00000345" date="1265477341352">
+		<source>345345 53 45345</source>
+		<target> 353 4534534</target>
+		<translated>53453453</translated>
+		<comment>45345345</comment>
+	</cmp>
+</root>

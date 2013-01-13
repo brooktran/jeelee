@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Document   : compare.xml
+Created on : 2010.02.02, 15:52
+Author     : Brook Tran 
+Description:
+Purpose of the document follows.
+--><root>
+	<cmp title="234" date="1265188907543">
+		<source>34234234234234</source>
+		<target>2344 4234234234</target>
+		<translated />
+		<comment />
+	</cmp>
+	<cmp title="00000234234234234234234" date="1265477172965">
+		<source>43 4 43 4234243234 4234</source>
+		<target>43 345 45322342</target>
+		<translated> 345 3 23423 4 </translated>
+		<comment> 34 2 324234</comment>
+	</cmp>
+	<cmp title="00000345" date="1265477341352">
+		<source> 353 4534534</source>
+		<target>345345 53 45345</target>
+		<translated>53453453</translated>
+		<comment>45345345</comment>
+	</cmp>
+<cmp title="44.7.110109.2_Words and Their Stories" date="1266316269921"><source>Every machine is held together by its nuts and bolts. Without them,
+the machine would fall apart. That is also true of an organization. Its
+nuts and bolts are its basic, necessary elements. They are the
+parts that make the organization work.
+In government, industry, diplomacy -- in most anything -- those
+who understand the nuts and bolts are the most important. Success
+depends more on them than on almost anyone else.
+In government, the president or prime minister may plan and shape
+programs and policies. But, it takes much more work to get them
+approved and to make them successful.
+There is a mass of detailed work to be done. The nuts and
+bolts. This is often put into the hands of specialists. The top leaders
+are always well-known, but not those who work with the nuts and
+bolts.</source><target>Every 机器 is held together by its nuts and bolts。 Without them, the 机器 would form of part. &#xD;
+That is also true av organzation. It's nuts and bolts are the basic neccessary aliment, the are the &#xD;
+part that make the organzation work. In gravoment, indurstry depomentsy. In most anything, those understand the nuts and bolts are the most inportant. Sussess depends more on them than on almost anyone else. In gravoment, the present or primaster make plan and ship program and palesi. But ,it takes  much more work to get my prove and to make them successful. This is often put into the hand of specialist. The top leaders are always well know, but not thoes who work as nuts and bolts.</target><translated></translated><comment></comment></cmp></root>

@@ -1,0 +1,19 @@
+#java.util.GregorianCalendar[time=1320513552429,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2011,MONTH=10,WEEK_OF_YEAR=46,WEEK_OF_MONTH=2,DAY_OF_MONTH=6,DAY_OF_YEAR=310,DAY_OF_WEEK=1,DAY_OF_WEEK_IN_MONTH=1,AM_PM=0,HOUR=1,HOUR_OF_DAY=1,MINUTE=19,SECOND=12,MILLISECOND=429,ZONE_OFFSET=28800000,DST_OFFSET=0]
+#Sun Nov 06 01:19:12 CST 2011
+name=\u5C0F\u8BD5\u725B\u5200
+pieceType=6
+AIOpen=false
+column=10
+diminish.system.piece=true
+pieceNum=3
+diminishedScore=10
+high.score=100,
+next=survival_2
+next.score=0
+diminishNum=5
+obstacle=1
+description=\u8FC7\u5173\u5206\u6570\:100.
+checkPassable=true
+initialNum=0
+row=10
+pass.score=100

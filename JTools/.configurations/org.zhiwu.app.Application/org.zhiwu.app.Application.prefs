@@ -1,0 +1,9 @@
+#java.util.GregorianCalendar[time=1316773651509,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2011,MONTH=8,WEEK_OF_YEAR=39,WEEK_OF_MONTH=4,DAY_OF_MONTH=23,DAY_OF_YEAR=266,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=6,HOUR_OF_DAY=18,MINUTE=27,SECOND=31,MILLISECOND=509,ZONE_OFFSET=28800000,DST_OFFSET=0]
+#Fri Sep 23 18:27:31 CST 2011
+locale=zh_CN
+window.location=241 166
+views=org.daily.DailyView,org.binary.BinaryEditorView,org.compare.CompareView,org.jreader.gui.JReaderView,org.translate.SXView,org.jtools.diary.gui.DiaryView,org.file.manager.FileManagerView
+window.extended.state=0
+testing=true
+locales.support=zh_CN,en_US
+window.size=666 547

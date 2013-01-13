@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Application"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/jaxen.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/jaxen.license"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/jaxen.readme"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/jdom.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/README"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/saxpath.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xalan.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xalan.license"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xalan.readme"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xerces.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xerces.readme"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

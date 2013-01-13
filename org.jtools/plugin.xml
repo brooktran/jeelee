@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="JTools Category"
+            id="org.jtools">
+      </category>
+      <view
+            name="JTools View"
+            icon="icons/sample.gif"
+            category="org.jtools"
+            class="org.jtools.views.JToolsView"
+            id="org.jtools.views.JToolsView">
+      </view>
+      <view
+            category="org.jtools"
+            class="org.jtools.jreader.ui.views.JReaderView"
+            icon="icons/sample.gif"
+            id="org.jtools.views.JReaderView"
+            name="JReaderView"
+            restorable="true">
+      </view>
+      <view
+            category="org.jtools"
+            class="org.jtools.jreader.ui.views.ArticleListView"
+            icon="icons/sample.gif"
+            id="org.jtools.views.ArticleListView"
+            name="ArticleList View"
+            restorable="true">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectiveExtensions">
+      <perspectiveExtension
+            targetID="org.eclipse.jdt.ui.JavaPerspective">
+         <view
+               ratio="0.5"
+               relative="org.eclipse.ui.views.TaskList"
+               relationship="right"
+               id="org.jtools.views.JToolsView">
+         </view>
+      </perspectiveExtension>
+   </extension>
+   <extension
+         point="org.eclipse.help.contexts">
+      <contexts
+            file="contexts.xml">
+      </contexts>
+   </extension>
+   <extension
+         point="org.eclipse.ui.commands">
+      <command
+            category="org.jtools.categorys.TestCategory"
+            defaultHandler="org.jtools.commands.TestHandler"
+            id="org.jtools.commands.TestCommand"
+            name="TestCommand">
+      </command>
+      <category
+            id="org.jtools.categorys.TestCategory"
+            name="TestCategory">
+      </category>
+      <command
+            categoryId="org.jtools.categorys.TestCategory"
+            defaultHandler="org.jtools.commands.AnotherCommand"
+            id="org.jtools.commands.AnotherCommand"
+            name="Another">
+      </command>
+      <command
+            category="org.jtools.categorys.TestCategory"
+            defaultHandler="org.jtools.commands.MoreCommands"
+            id="org.jtools.commands.MoreCommands"
+            name="MoreCommands">
+         <commandParameter
+               id="org.jtools.commands.SourceView"
+               name="Source View"
+               optional="true"
+               values="org.eclipse.ui.internal.registry.ViewParameterValues">
+         </commandParameter>
+      </command>
+      <command
+            categoryId="org.jtools.categorys.jreader"
+            defaultHandler="org.jtools.jreader.handles.AddFeedHandler"
+            description="Add a new reader"
+            id="org.jtools.commands.AddFeedCommand"
+            name="Add Reader Command">
+      </command>
+      <category
+            description="all jreader commands are in this category"
+            id="org.jtools.categorys.jreader"
+            name="jreader">
+      </category>
+   </extension>
+   <extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+            allPopups="false"
+            locationURI="menu:org.eclipse.ui.main.menu">
+         <menu
+               id="FuckMenu"
+               label="Fuck">
+            <command
+                  commandId="org.jtools.commands.TestCommand"
+                  label="TestCommand"
+                  style="push">
+            </command>
+         </menu>
+      </menuContribution>
+      <menuContribution
+            allPopups="false"
+            locationURI="toolbar:org.eclipse.ui.main.toolbar">
+         <toolbar
+               id="org.jtools.toolbar.TestToolbar"
+               label="myToolBar">
+            <command
+                  commandId="org.jtools.commands.AnotherCommand"
+                  label="toolbar another"
+                  style="push">
+               <visibleWhen
+                     checkEnabled="true">
+                  <reference
+                        definitionId="oneElementSelected">
+                  </reference>
+               </visibleWhen>
+            </command>
+         </toolbar>
+      </menuContribution>
+      <menuContribution
+            allPopups="false"
+            locationURI="toolbar:org.jtools.views.JReaderView">
+         <command
+               commandId="org.jtools.commands.MoreCommands"
+               label="MoreTools"
+               style="push">
+         </command>
+         <command
+               commandId="org.jtools.commands.MoreCommands"
+               icon="icons/sample.gif"
+               label="Last command"
+               style="push">
+         </command>
+      </menuContribution>
+      <menuContribution
+            allPopups="false"
+            locationURI="toolbar:org.jtools.views.JReaderView">
+         <command
+               commandId="org.jtools.commands.AddFeedCommand"
+               icon="icons/add_feed.png"
+               label="Add Feed"
+               mnemonic="Add Feed"
+               style="push">
+         </command>
+      </menuContribution>
+   </extension>
+   <extension
+         point="org.eclipse.core.expressions.definitions">
+      <definition
+            id="oneElementSelected">
+         <with
+               variable="selection">
+            <count
+                  value="1">
+            </count>
+         </with>
+      </definition>
+   </extension>
+   <extension
+         point="org.eclipse.ui.newWizards">
+      <wizard
+            class="org.jtools.jreader.ui.wizards.AddFeedWizard"
+            icon="icons/add_feed.png"
+            id="org.jtools.jreader.wizards.AddFeedWizard"
+            name="Add a new feed">
+      </wizard>
+   </extension>
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            default="false"
+            id="org.jtools.editor1"
+            name="name">
+      </editor>
+   </extension>
+
+</plugin>

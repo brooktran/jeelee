@@ -1,0 +1,5 @@
+#java.util.GregorianCalendar[time=1299241060745,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2011,MONTH=2,WEEK_OF_YEAR=10,WEEK_OF_MONTH=1,DAY_OF_MONTH=4,DAY_OF_YEAR=63,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=1,AM_PM=1,HOUR=8,HOUR_OF_DAY=20,MINUTE=17,SECOND=40,MILLISECOND=745,ZONE_OFFSET=28800000,DST_OFFSET=0]
+#Fri Mar 04 20:17:40 CST 2011
+locale=zh_CN
+name=newvalue
+locales.support=zh_CN,en_US

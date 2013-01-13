@@ -1,0 +1,7 @@
+#java.util.GregorianCalendar[time=1320565373051,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2011,MONTH=10,WEEK_OF_YEAR=46,WEEK_OF_MONTH=2,DAY_OF_MONTH=6,DAY_OF_YEAR=310,DAY_OF_WEEK=1,DAY_OF_WEEK_IN_MONTH=1,AM_PM=1,HOUR=3,HOUR_OF_DAY=15,MINUTE=42,SECOND=53,MILLISECOND=51,ZONE_OFFSET=28800000,DST_OFFSET=0]
+#Sun Nov 06 15:42:53 CST 2011
+flower=-1
+image.dir=resources/images/
+sound=true
+sound.path=resources/sound/
+obstacle.num=21

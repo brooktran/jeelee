@@ -1,0 +1,7 @@
+#java.util.GregorianCalendar[time=1308624464041,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2011,MONTH=5,WEEK_OF_YEAR=26,WEEK_OF_MONTH=4,DAY_OF_MONTH=21,DAY_OF_YEAR=172,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=3,AM_PM=0,HOUR=10,HOUR_OF_DAY=10,MINUTE=47,SECOND=44,MILLISECOND=41,ZONE_OFFSET=28800000,DST_OFFSET=0]
+#Tue Jun 21 10:47:44 CST 2011
+backup=true
+line.wrap=true
+backup.type=txt
+backup.types=txt,html,pdf,doc
+backup.path=C\:\\Users\\root\\Documents

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="create_runnable_jar" name="mepper">
+	<property file="$"
+	<target name="create_runnable_jar">
+	
+	
+	</target>
+
+
+</project>

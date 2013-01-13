@@ -1,0 +1,65 @@
+[PropertyInfo]
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+file,File,false,false, , ,false,<default>
+filechooser,JFileChooser,false,false, , ,false,<default>
+gridLayout1,GridLayout,false,false, , ,false,<default>
+imageCloseFile,ImageIcon,false,false, , ,false,<default>
+imageCopy,ImageIcon,false,false, , ,false,<default>
+imageCut,ImageIcon,false,false, , ,false,<default>
+imageHelp,ImageIcon,false,false, , ,false,<default>
+imageOpenFile,ImageIcon,false,false, , ,false,<default>
+imagePaste,ImageIcon,false,false, , ,false,<default>
+imageRedo,ImageIcon,false,false, , ,false,<default>
+imageSave,ImageIcon,false,false, , ,false,<default>
+imageTitle,Image,false,false, , ,false,<default>
+imageUndo,ImageIcon,false,false, , ,false,<default>
+jButtonClose,JButton,false,false, , ,false,<default>
+jButtonCopy,JButton,false,false, , ,false,<default>
+jButtonCut,JButton,false,false, , ,false,<default>
+jButtonHelp,JButton,false,false, , ,false,<default>
+jButtonOpen,JButton,false,false, , ,false,<default>
+jButtonPaste,JButton,false,false, , ,false,<default>
+jButtonRedo,JButton,false,false, , ,false,<default>
+jButtonSave,JButton,false,false, , ,false,<default>
+jButtonUndo,JButton,false,false, , ,false,<default>
+jCheckBoxMenuViewStatusBar,JCheckBoxMenuItem,false,false, , ,false,<default>
+jCheckBoxMenuViewToolBar,JCheckBoxMenuItem,false,false, , ,false,<default>
+jMenuBar1,JMenuBar,false,false, , ,false,<default>
+jMenuEdit,JMenu,false,false, , ,false,<default>
+jMenuEditCopy,JMenuItem,false,false, , ,false,<default>
+jMenuEditCut,JMenuItem,false,false, , ,false,<default>
+jMenuEditDelete,JMenuItem,false,false, , ,false,<default>
+jMenuEditPaste,JMenuItem,false,false, , ,false,<default>
+jMenuEditSelectAll,JMenuItem,false,false, , ,false,<default>
+jMenuEditUndo,JMenuItem,false,false, , ,false,<default>
+jMenuFile,JMenu,false,false, , ,false,<default>
+jMenuFileExit,JMenuItem,false,false, , ,false,<default>
+jMenuFileNew,JMenuItem,false,false, , ,false,<default>
+jMenuFileOpen,JMenuItem,false,false, , ,false,<default>
+jMenuFilePrint,JMenuItem,false,false, , ,false,<default>
+jMenuFileSave,JMenuItem,false,false, , ,false,<default>
+jMenuFileSaveAs,JMenuItem,false,false, , ,false,<default>
+jMenuFormat,JMenu,false,false, , ,false,<default>
+jMenuFormatFont,JMenuItem,false,false, , ,false,<default>
+jMenuHelp,JMenu,false,false, , ,false,<default>
+jMenuHelpAbout,JMenuItem,false,false, , ,false,<default>
+jMenuPageSetup,JMenuItem,false,false, , ,false,<default>
+jMenuPopCopy,JMenuItem,false,false, , ,false,<default>
+jMenuPopCut,JMenuItem,false,false, , ,false,<default>
+jMenuPopPaste,JMenuItem,false,false, , ,false,<default>
+jMenuView,JMenu,false,false, , ,false,<default>
+jPanelstatus,JPanel,false,false, , ,false,<default>
+jPopupMenu1,JPopupMenu,false,false, , ,false,<default>
+jScrollPane1,JScrollPane,false,false, , ,false,<default>
+jTextArea1,JTextArea,false,false, , ,false,<default>
+jToolBar,JToolBar,false,false, , ,false,<default>
+saveFlag,boolean,false,false, , ,false,<default>
+statusBar,JLabel,false,false, , ,false,<default>
+statusBarTime,JLabel,false,false, , ,false,<default>
+statusBarXY,JLabel,false,false, , ,false,<default>
+time,Date,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
